@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     {
       "name": "Mark Zuckerberg",
       "location": {
@@ -38,4 +37,3 @@
       "numComments": 444
     }
   ]
-}
